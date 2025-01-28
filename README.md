@@ -1,7 +1,6 @@
 # Custom features
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/oliynyklab/Custom-features/blob/main/LICENSE)
-![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 
 This is a package that can generate custom features, essential for ML, especially for analyzing complex crystal structures. These features capture detailed geometric and structural information, such as polyhedron volumes, edge distortions, and atomic distances, focusing on specific sites. Researchers can better correlate material properties, such as conductivity and band gap, by tailoring features to structural nuances with their crystal environments. This approach is automated for high-throughput analysis, enabling the study of large datasets efficiently.
 
@@ -65,7 +64,7 @@ This is an example of what custom features could be generated and the approach w
 
 ## Demo
 
-The attached [notebook](https://github.com/oliynyklab/Custom-features/features.ipynb), has a walkthrough using the Yb14MnSb11.cif file. Feel free to substitute the cif file with one of your choosing and adjust the directory as needed.
+The attached [notebook](https://github.com/OliynykLab/Custom-features/blob/main/features.ipynb), has a walkthrough using the Yb14MnSb11.cif file. Feel free to substitute the cif file with one of your choosing and adjust the directory as needed.
 
 ## Installation
 
