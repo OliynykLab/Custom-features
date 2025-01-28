@@ -77,6 +77,7 @@ $ pip install -r requirements.txt
 ## Contributors
 
 - [Sangjoon Bob Lee](https://github.com/bobleesj)
+- [Balaranjan Selvaratnam](https://github.com/balaranjan)
 - Anton Oliynyk
 - [Emil Jaffal](https://github.com/EmilJaffal)
 
